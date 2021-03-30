@@ -1,5 +1,4 @@
 # CalTrain
-# CalTrain
 It's a train station control system that automats not just its trains but also its passengers.  
 From now on, passengers will be robots.  
 Each robot and each train is controlled by a thread.  
